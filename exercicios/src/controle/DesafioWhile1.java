@@ -12,7 +12,7 @@ public class DesafioWhile1 {
 		String valor = "";
 
 		while (!valor.equalsIgnoreCase("porfavor")) {
-
+//teste
 			valor = entrada.next();
 
 			System.out.print("Palavra magica: ");
